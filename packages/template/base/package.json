@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/template-base",
-  "version": "6.0.0-beta.77",
+  "version": "6.0.0-beta.78",
   "description": "Base template for Electron Forge",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",

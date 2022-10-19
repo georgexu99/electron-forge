@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/cli",
-  "version": "6.0.0-beta.77",
+  "version": "6.0.0-beta.78",
   "description": "A complete tool for building modern Electron applications",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
