@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/core",
-  "version": "6.0.0-beta.71",
+  "version": "6.0.0-beta.72",
   "description": "A complete tool for building modern Electron applications",
   "repository": "https://github.com/georgexu99/electron-forge",
   "main": "dist/api/index.js",
@@ -43,7 +43,7 @@
     "@electron-forge/publisher-base": "6.0.0-beta.67",
     "@electron-forge/shared-types": "6.0.0-beta.67",
     "@electron-forge/template-base": "6.0.0-beta.67",
-    "@electron-forge/template-typescript-webpack": "^6.0.0-beta.71",
+    "@electron-forge/template-typescript-webpack": "^6.0.0-beta.72",
     "@electron-forge/template-webpack": "6.0.0-beta.67",
     "@electron/get": "^2.0.0",
     "@malept/cross-spawn-promise": "^2.0.0",
@@ -83,5 +83,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@georgexu99"
   },
-  "gitHead": "5131b851c3cc95ae08859b77e96957196ff30147"
+  "gitHead": "052ab76773f74de46059c6386c7816b8baa4bfb1"
 }

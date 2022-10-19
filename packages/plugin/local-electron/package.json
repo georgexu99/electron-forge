@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/plugin-local-electron",
-  "version": "6.0.0-beta.71",
+  "version": "6.0.0-beta.72",
   "description": "Local Electron plugin for Electron Forge, let's you use a local build of Electron",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
@@ -21,5 +21,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@georgexu99"
-  }
+  },
+  "gitHead": "052ab76773f74de46059c6386c7816b8baa4bfb1"
 }
