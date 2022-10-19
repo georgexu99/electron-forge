@@ -31,5 +31,9 @@
     "debug": "^4.3.1",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.25"
+  },
+  "gitHead": "9afe25634e3b2969ed385fe6646c062759c9ed11",
+  "publishConfig": {
+    "access": "public"
   }
 }

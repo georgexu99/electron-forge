@@ -13,5 +13,9 @@
   "dependencies": {
     "@electron-forge/plugin-base": "6.0.0-beta.67",
     "@electron-forge/shared-types": "6.0.0-beta.67"
+  },
+  "gitHead": "9afe25634e3b2969ed385fe6646c062759c9ed11",
+  "publishConfig": {
+    "access": "public"
   }
 }

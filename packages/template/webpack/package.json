@@ -22,5 +22,9 @@
   "devDependencies": {
     "@electron-forge/test-utils": "6.0.0-beta.67",
     "chai": "^4.3.3"
+  },
+  "gitHead": "9afe25634e3b2969ed385fe6646c062759c9ed11",
+  "publishConfig": {
+    "access": "public"
   }
 }
