@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/async-ora",
-  "version": "6.0.0-beta.74",
+  "version": "6.0.0-beta.75",
   "description": "A helper utility for wrapping async functions in an ora",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",

@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/maker-zip",
-  "version": "6.0.0-beta.74",
+  "version": "6.0.0-beta.75",
   "description": "ZIP maker for Electron Forge",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
