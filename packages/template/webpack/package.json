@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/template-webpack",
-  "version": "6.0.0-beta.76",
+  "version": "6.0.0-beta.77",
   "description": "Webpack template for Electron Forge, gets you started with Webpack really quickly",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
@@ -23,7 +23,7 @@
     "@electron-forge/test-utils": "6.0.0-beta.67",
     "chai": "^4.3.3"
   },
-  "gitHead": "9afe25634e3b2969ed385fe6646c062759c9ed11",
+  "gitHead": "7bc1e19f55c71d5804d4e2aeba39a301a77a3e36",
   "publishConfig": {
     "access": "public"
   }

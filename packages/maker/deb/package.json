@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/maker-deb",
-  "version": "6.0.0-beta.76",
+  "version": "6.0.0-beta.77",
   "description": "Deb maker for Electron Forge",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
@@ -24,7 +24,7 @@
   "optionalDependencies": {
     "electron-installer-debian": "^3.0.0"
   },
-  "gitHead": "9afe25634e3b2969ed385fe6646c062759c9ed11",
+  "gitHead": "7bc1e19f55c71d5804d4e2aeba39a301a77a3e36",
   "publishConfig": {
     "access": "public"
   }

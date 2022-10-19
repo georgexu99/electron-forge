@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/plugin-local-electron",
-  "version": "6.0.0-beta.76",
+  "version": "6.0.0-beta.77",
   "description": "Local Electron plugin for Electron Forge, let's you use a local build of Electron",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
@@ -19,7 +19,7 @@
     "chai": "^4.3.3",
     "mocha": "^9.0.1"
   },
-  "gitHead": "9afe25634e3b2969ed385fe6646c062759c9ed11",
+  "gitHead": "7bc1e19f55c71d5804d4e2aeba39a301a77a3e36",
   "publishConfig": {
     "access": "public"
   }
