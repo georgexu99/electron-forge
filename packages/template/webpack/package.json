@@ -23,7 +23,7 @@
     "@electron-forge/test-utils": "6.0.0-beta.67",
     "chai": "^4.3.3"
   },
-  "gitHead": "7bc1e19f55c71d5804d4e2aeba39a301a77a3e36",
+  "gitHead": "6fb6b89f061fa59de586d6b0c04e42b9793d9d82",
   "publishConfig": {
     "access": "public"
   }

@@ -20,7 +20,7 @@
     "cross-zip": "^4.0.0",
     "fs-extra": "^10.0.0"
   },
-  "gitHead": "7bc1e19f55c71d5804d4e2aeba39a301a77a3e36",
+  "gitHead": "6fb6b89f061fa59de586d6b0c04e42b9793d9d82",
   "publishConfig": {
     "access": "public"
   }
