@@ -2,7 +2,7 @@
   "name": "@electron-forge/async-ora",
   "version": "6.0.0-beta.67",
   "description": "A helper utility for wrapping async functions in an ora",
-  "repository": "https://github.com/electron-userland/electron-forge",
+  "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
   "license": "MIT",
   "main": "dist/index.js",
@@ -25,5 +25,8 @@
   },
   "engines": {
     "node": ">= 14.17.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@georgexu99"
   }
 }

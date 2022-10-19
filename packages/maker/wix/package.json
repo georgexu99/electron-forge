@@ -2,7 +2,7 @@
   "name": "@electron-forge/maker-wix",
   "version": "6.0.0-beta.67",
   "description": "Wix maker for Electron Forge",
-  "repository": "https://github.com/electron-userland/electron-forge",
+  "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
   "license": "MIT",
   "main": "dist/MakerWix.js",
@@ -21,5 +21,8 @@
     "electron-wix-msi": "^3.0.6",
     "log-symbols": "^4.0.0",
     "parse-author": "^2.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@georgexu99"
   }
 }

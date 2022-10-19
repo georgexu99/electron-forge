@@ -2,7 +2,7 @@
   "name": "@electron-forge/template-typescript-webpack",
   "version": "6.0.0-beta.67",
   "description": "Typescript-Webpack template for Electron Forge",
-  "repository": "https://github.com/electron-userland/electron-forge",
+  "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Shelley Vohr <shelley.vohr@gmail.com>",
   "license": "MIT",
   "main": "dist/TypeScriptWebpackTemplate.js",
@@ -23,5 +23,8 @@
     "@electron-forge/test-utils": "6.0.0-beta.67",
     "chai": "^4.3.3",
     "fast-glob": "^3.2.7"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@georgexu99"
   }
 }

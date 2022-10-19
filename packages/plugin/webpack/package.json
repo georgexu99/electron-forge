@@ -2,7 +2,7 @@
   "name": "@electron-forge/plugin-webpack",
   "version": "6.0.0-beta.67",
   "description": "Webpack plugin for Electron Forge, lets you use Webpack directly in your tooling",
-  "repository": "https://github.com/electron-userland/electron-forge",
+  "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
   "license": "MIT",
   "main": "dist/WebpackPlugin.js",
@@ -37,5 +37,8 @@
     "webpack": "^5.69.1",
     "webpack-dev-server": "^4.0.0",
     "webpack-merge": "^5.7.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@georgexu99"
   }
 }

@@ -2,7 +2,7 @@
   "name": "@electron-forge/maker-dmg",
   "version": "6.0.0-beta.67",
   "description": "DMG maker for Electron Forge",
-  "repository": "https://github.com/electron-userland/electron-forge",
+  "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
   "license": "MIT",
   "main": "dist/MakerDMG.js",
@@ -28,5 +28,8 @@
   },
   "optionalDependencies": {
     "electron-installer-dmg": "^4.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@georgexu99"
   }
 }

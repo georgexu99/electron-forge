@@ -2,7 +2,7 @@
   "name": "@electron-forge/plugin-compile",
   "version": "6.0.0-beta.67",
   "description": "Electron Compile plugin for Electron Forge",
-  "repository": "https://github.com/electron-userland/electron-forge",
+  "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
   "license": "MIT",
   "main": "dist/CompilePlugin.js",
@@ -19,5 +19,8 @@
     "@electron-forge/plugin-base": "6.0.0-beta.67",
     "@electron-forge/shared-types": "6.0.0-beta.67",
     "fs-extra": "^10.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@georgexu99"
   }
 }

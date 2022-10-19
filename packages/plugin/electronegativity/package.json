@@ -4,7 +4,7 @@
   "description": "Integrate Electronegativity into the Electron Forge workflow",
   "repository": {
     "type": "git",
-    "url": "https://github.com/electron-userland/electron-forge",
+    "url": "https://github.com/georgexu99/electron-forge",
     "directory": "packages/plugin/electronegativity"
   },
   "author": "Mark Lee",
@@ -18,5 +18,8 @@
     "@doyensec/electronegativity": "^1.9.1",
     "@electron-forge/plugin-base": "6.0.0-beta.67",
     "@electron-forge/shared-types": "6.0.0-beta.67"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@georgexu99"
   }
 }
