@@ -1,5 +1,5 @@
 {
-  "name": "@electron-forge/maker-pkg",
+  "name": "@georgexu99/maker-pkg",
   "version": "6.0.0-beta.67",
   "description": "PKG maker for Electron Forge",
   "repository": "https://github.com/georgexu99/electron-forge",

@@ -1,5 +1,5 @@
 {
-  "name": "@electron-forge/plugin-webpack",
+  "name": "@georgexu99/plugin-webpack",
   "version": "6.0.0-beta.67",
   "description": "Webpack plugin for Electron Forge, lets you use Webpack directly in your tooling",
   "repository": "https://github.com/georgexu99/electron-forge",
