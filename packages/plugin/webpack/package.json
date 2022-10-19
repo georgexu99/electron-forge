@@ -1,6 +1,6 @@
 {
   "name": "@georgexu99/plugin-webpack",
-  "version": "6.0.0-beta.68",
+  "version": "6.0.0-beta.69",
   "description": "Webpack plugin for Electron Forge, lets you use Webpack directly in your tooling",
   "repository": "https://github.com/georgexu99/electron-forge",
   "author": "Samuel Attard",
