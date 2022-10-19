@@ -69,10 +69,16 @@ Please ensure that all changes are committed using [semantic commit messages](ht
 ### Running the Tests
 
 The Electron Forge repository has a lot of tests, some of which take a decent
-amount of time to run.
+amount of time to run the first time. Lerna will cache the results for future runs.
 
 ```bash
-yarn test
+lerna run test
+```
+
+Tests can also be run within a scope, like so:
+
+```bash
+lerna run test --scope=@electron-forge/core
 ```
 
 ## Filing Pull Requests
@@ -98,7 +104,7 @@ Here are some things to keep in mind as you file pull requests to fix bugs, add 
 
 ### Release process
 
-- Make sure the tests pass
+- Make sure the tests pass with `lerna run test`
 - `$ ./tools/bump.ts $NEW_VERSION`
   - This will commit the changes automatically. Run `git log` to confirm that the changes have been
     committed.
