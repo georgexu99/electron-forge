@@ -37,9 +37,5 @@
     "webpack": "^5.69.1",
     "webpack-dev-server": "^4.0.0",
     "webpack-merge": "^5.7.3"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@georgexu99"
-  },
-  "gitHead": "28f984e5020ed646a76ea45961582dcf83b1ff90"
+  }
 }

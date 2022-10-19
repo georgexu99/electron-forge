@@ -23,9 +23,5 @@
     "@electron-forge/publisher-base": "6.0.0-beta.67",
     "@electron-forge/shared-types": "6.0.0-beta.67",
     "debug": "^4.3.1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@georgexu99"
-  },
-  "gitHead": "28f984e5020ed646a76ea45961582dcf83b1ff90"
+  }
 }

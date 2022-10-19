@@ -21,9 +21,5 @@
     "debug": "^4.3.1",
     "form-data": "^4.0.0",
     "node-fetch": "^2.6.7"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@georgexu99"
-  },
-  "gitHead": "28f984e5020ed646a76ea45961582dcf83b1ff90"
+  }
 }

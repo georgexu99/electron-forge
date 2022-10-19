@@ -31,9 +31,5 @@
     "debug": "^4.3.1",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.25"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@georgexu99"
-  },
-  "gitHead": "28f984e5020ed646a76ea45961582dcf83b1ff90"
+  }
 }

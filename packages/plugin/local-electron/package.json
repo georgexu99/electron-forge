@@ -18,9 +18,5 @@
   "devDependencies": {
     "chai": "^4.3.3",
     "mocha": "^9.0.1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@georgexu99"
-  },
-  "gitHead": "28f984e5020ed646a76ea45961582dcf83b1ff90"
+  }
 }

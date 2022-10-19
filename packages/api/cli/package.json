@@ -40,9 +40,5 @@
       "type": "tidelift",
       "url": "https://tidelift.com/subscription/pkg/npm-.electron-forge-cli?utm_medium=referral&utm_source=npm_fund"
     }
-  ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@georgexu99"
-  },
-  "gitHead": "28f984e5020ed646a76ea45961582dcf83b1ff90"
+  ]
 }
